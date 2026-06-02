@@ -77,33 +77,7 @@ Built with a state-of-the-art frontend stack for maximum performance, responsive
 
 ---
 
-## 🚀 Local Development Setup
 
-To run the application locally on your machine, follow these steps:
-
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed (v18+ recommended).
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Lost-warrior-ux/Qantas-Point-Calculator.git
-   cd Qantas-Point-Calculator/app
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Run the local development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application locally.
-
----
 
 ## 📈 SEO & Performance Optimized
 This project is engineered with high-impact SEO practices in mind:
